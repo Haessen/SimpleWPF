@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace NTNYULON
+namespace WPF.UserControls
 {
     /// <summary>
-    /// LoginWindow.xaml 的交互逻辑
+    /// Loading.xaml 的交互逻辑
     /// </summary>
-    public partial class LoginWindow : UserControl
+    public partial class Loading : UserControl
     {
-        public LoginWindow()
+        public Loading()
         {
             InitializeComponent();
         }
